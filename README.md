@@ -5,7 +5,7 @@
 🤝 I’m looking for job in Angular and Flutter, both work very well for me<br>
 💬 I'm motivated for self-improvement and new challenges, open for criticism and<br>advices from team-colleagues and broad-minded. I speak pretty well in English (C1).<br>I devote myself to my work to get the best results. I'm a fast learner.<br>
 ⚡ Fun fact I have a lot of interests, for example I made my girlfriend a ring out of brass wire. <br>
-📫 How to reach me: <br>mail: mateusz.jajkowicz@gmail.com
+📫 How to reach me: mateusz.jajkowicz@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Mateusz-Jajkowicz) 
